@@ -35,7 +35,7 @@ const About = () => {
                         </div>
 
                         {/* Huge Editorial Name */}
-                        <h2 className="text-5xl md:text-7xl lg:text-[5.5rem] font-heading font-black text-white tracking-tighter leading-[0.9] mb-6">
+                        <h2 className="text-[12.5vw] sm:text-5xl md:text-7xl lg:text-[5.5rem] font-heading font-black text-white tracking-tighter leading-[0.85] mb-6">
                             FERHAT<br />
                             <span className="text-[#D32F2F]">SAĞLAM.</span>
                         </h2>

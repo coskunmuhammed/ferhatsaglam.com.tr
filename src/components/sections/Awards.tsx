@@ -85,7 +85,7 @@ const Awards = () => {
                                 </h3>
                             </div>
 
-                            <div className="border-l border-[#D4AF37]/20 pl-8 md:pl-12 ml-4 space-y-16">
+                            <div className="border-l border-[#D4AF37]/20 pl-6 sm:pl-8 md:pl-12 ml-6 sm:ml-8 space-y-16">
 
                             {getYears().map(([year, awards], yearIdx) => (
                                 <motion.div 
@@ -97,7 +97,7 @@ const Awards = () => {
                                     className="relative"
                                 >
                                     {/* Timeline Node */}
-                                    <div className="absolute -left-[53px] md:-left-[69px] w-5 h-5 rounded-full border-[2px] border-[#050505] bg-[#D4AF37] flex items-center justify-center ring-4 ring-[#D4AF37]/20">
+                                    <div className="absolute -left-[35px] sm:-left-[43px] md:-left-[59px] w-5 h-5 rounded-full border-[2px] border-[#050505] bg-[#D4AF37] flex items-center justify-center ring-4 ring-[#D4AF37]/20">
                                         <div className="w-1.5 h-1.5 rounded-full bg-black" />
                                     </div>
                                     

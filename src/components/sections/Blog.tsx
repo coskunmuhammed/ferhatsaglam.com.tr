@@ -20,7 +20,7 @@ const Blog = () => {
                         <h2 className="text-sm nav-link text-accent mb-4 tracking-widest text-text-secondary">
                             {t('blog.label')}
                         </h2>
-                        <h3 className="text-4xl md:text-5xl heading-wide opacity-90">
+                        <h3 className="text-3xl sm:text-4xl md:text-5xl lg:text-5xl font-heading font-black tracking-widest uppercase opacity-90 break-words w-full">
                             {t('blog.title')}
                         </h3>
                     </div>

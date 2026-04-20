@@ -131,10 +131,9 @@ const Footer = () => {
   return (
     <footer className="relative bg-[#050505] pt-20 pb-8 border-t border-white/5 overflow-hidden font-sans">
       
-      {/* Giant Background Text Logo */}
-      <div className="w-full flex justify-center items-center select-none pointer-events-none mb-20 overflow-hidden px-4">
-        <h1 className="text-[#D32F2F] text-[10vw] md:text-[8vw] xl:text-[7vw] font-black tracking-[-0.05em] leading-none whitespace-nowrap opacity-95">
-          FERHAT<span className="opacity-80">.</span>SAĞLAM
+      <div className="w-full flex justify-center items-center select-none pointer-events-none mb-20 overflow-hidden px-4 text-center">
+        <h1 className="text-[#D32F2F] text-[16vw] sm:text-[10vw] md:text-[8vw] xl:text-[7vw] font-black tracking-[-0.05em] leading-[0.85] opacity-95">
+          FERHAT<span className="hidden sm:inline opacity-80">.</span><br className="sm:hidden" />SAĞLAM
         </h1>
       </div>
 
