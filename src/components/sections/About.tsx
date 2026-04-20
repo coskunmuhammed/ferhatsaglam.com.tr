@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import { Mail, Globe, Award, PhoneCall } from 'lucide-react';
+import { Mail, Globe, PhoneCall } from 'lucide-react';
 
 const About = () => {
     const { t } = useTranslation();

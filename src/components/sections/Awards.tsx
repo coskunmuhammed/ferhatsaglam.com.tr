@@ -5,7 +5,6 @@ import { Trophy, Award, BookOpen, Star, Medal } from 'lucide-react';
 const Awards = () => {
     const { t } = useTranslation();
 
-    const currentYear = new Date().getFullYear();
 
     const getYears = () => {
         const awardsObj = t('awards.years', { returnObjects: true }) as Record<string, string[]>;

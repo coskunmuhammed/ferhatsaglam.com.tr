@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Quote, Star } from 'lucide-react';
+import { Quote } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 

@@ -6,7 +6,6 @@ import Hero from './components/sections/Hero';
 import About from './components/sections/About';
 import Awards from './components/sections/Awards';
 import Footer from './components/layout/Footer';
-import { ArrowUp } from 'lucide-react';
 
 import Testimonials from './components/sections/Testimonials';
 import FAQ from './components/sections/FAQ';
