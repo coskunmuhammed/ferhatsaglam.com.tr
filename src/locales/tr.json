@@ -1,0 +1,204 @@
+{
+    "nav": {
+        "about": "Hakkımda",
+        "listings": "İlanlar",
+        "services": "Hizmetler",
+        "testimonials": "Yorumlar",
+        "faq": "SSS",
+        "blog": "Blog",
+        "contact": "İletişim"
+    },
+    "hero": {
+        "title": "FERHAT SAĞLAM",
+        "subtitle1": "MODERN YAŞAMIN",
+        "subtitle2": "YENİ STANDARDI",
+        "location1": "KADIKÖY / İSTANBUL",
+        "location2": "TÜRKİYE"
+    },
+    "about": {
+        "role": "Gayrimenkul Danışmanı",
+        "phone": "+90 505 259 51 87",
+        "email": "ferhatsaglam@remax-yildiz.com",
+        "website_text": "www.remax.com.tr/yildiz",
+        "call_now": "Hemen Ara",
+        "personal_website": "Kişisel Web Sitesi",
+        "badge": "RE/MAX YILDIZ",
+        "acp_sub": "PROFESSIONAL",
+        "yildizlar1": "YILDIZLAR",
+        "yildizlar2": "KULÜBÜ",
+        "remax_ticari": "TİCARİ",
+        "bio_p1": "1979 YILINDA, ASKER OLAN BABAMIN GÖREVİ NEDENİYLE KARS'TA DÜNYAYA GELDİM. İLK VE ORTA ÖĞRENİMİMİ İSTANBUL'DA TAMAMLADIKTAN SONRA LİSE EĞİTİMİMİ <strong class=\"text-white font-bold\">İZMİR MALTEPE ASKERİ LİSESİ</strong>'NDE BİTİRDİM VE 2002 YILINDA <strong class=\"text-white font-bold\">KARA HARP OKULU</strong>'NDAN MEZUN OLDUM.",
+        "bio_p2": "2009-2011 YILLARI ARASINDA KONYA <strong class=\"text-white font-bold\">SELÇUK ÜNİVERSİTESİ İŞLETME ANABİLİM DALI YÖNETİM ORGANİZASYONU ALANINDA YÜKSEK LİSANS</strong> EĞİTİMİMİ TAMAMLADIM. 2014 YILINDA İSE ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI TARAFINDAN VERİLEN <strong class=\"text-white font-bold\">A SINIFI İŞ GÜVENLİĞİ UZMANLIĞI</strong> BELGESİNİ ALDIM.",
+        "bio_p3": "2002-2023 YILLARI ARASINDA <strong class=\"text-white font-bold\">TÜRK SİLAHLI KUVVETLERİ'NİN ÇEŞİTLİ BİRLİK, KARARGÂH VE KURUMLARINDA TAKIM VE BÖLÜK KOMUTANLIĞI, GARNİZON KOMUTANLIĞI, PERSONEL PLAN SUBAYLIĞI VE PERSONEL ŞUBE MÜDÜRLÜĞÜ</strong> GİBİ GÖREVLERDE BULUNDUM. 2023 YILINDA EMEKLİ OLARAK EDİNMİŞ OLDUĞUM BİLGİ BİRİKİMİ VE DİSİPLİNİMİ GAYRİMENKUL SEKTÖRÜNE AKTARMA KARARI ALDIM.",
+        "bio_p4": "2024 EKİM İTİBARIYLA İSTANBUL'DAKİ OFİSİMLE BİRLİKTE, GÜVENİLİR, ŞEFFAF VE KURUMSAL ÇİZGİDEN ÖDÜN VERMEDEN GAYRİMENKUL SATIŞ VE KİRALAMA SÜREÇLERİNİZİ PROFESYONEL BİR ŞEKİLDE YÖNETMEYE DEVAM EDECEĞİM.",
+        "send_mail": "MAİL GÖNDER"
+    },
+    "testimonials": {
+        "label": "REFERANSLARIMIZ",
+        "title": "Müşteri Yorumları",
+        "see_more": "Müşteri Yorumlarının Devamını Gör",
+        "reviews": [
+            {
+                "content": "Bir emlakçı olarak beklentilerimizin çok ötesinde geçti ve kısa sürece güvenilir bir kiracı buldu. Sürecin her aşamasında profesyonel, şeffaf ve çözüm odaklıydı. Tüm işleri bizim için zahmetsizce yönetti. Gönül rahatlığıyla herkese tavsiye ederim.",
+                "author": "Vedat Yılmaz",
+                "role": "Mülk Sahibi",
+                "initials": "VY"
+            },
+            {
+                "content": "Çok profesyonel bir hizmet aldım. Tüm süreçte sürekli bir bilgi akışı ve bilgi desteği gerçekleşti. Ufak tefek aksaklıkları da büyük bir sabır ve destek ile çözdük. Üstün, kıymetli ve kaliteli bir yaklaşım oldu.",
+                "author": "Erkan Varol",
+                "role": "Müşteri",
+                "initials": "EV"
+            },
+            {
+                "content": "Son derece güvenilir ve işini titizlikle yapan birisi. Eşim ve ben kendisi aracılığı ile satın aldığımız müstakil ev için müteşekkiriz. Tüm taleplerimizde hep yapıcı yaklaşımınız için ayrıca çok teşekkür ederiz.",
+                "author": "Uğur Araşlıklar",
+                "role": "Alıcı",
+                "initials": "UA"
+            }
+        ]
+    },
+    "faq": {
+        "label": "SÜREÇ VE BİLGİLENDİRME",
+        "title": "Sıkça Sorulan Sorular",
+        "questions": [
+            {
+                "q": "Evimi satmak/kiralamak ne kadar sürer?",
+                "a": "Mülkünüzün konumu, fiyatlandırma stratejisi ve pazar koşullarına bağlı olarak değişmekle birlikte, doğru fiyatlama ve profesyonel bir pazarlama ağı ile portföylerimizi ortalama 15 ila 30 gün içerisinde sonuçlandırıyoruz."
+            },
+            {
+                "q": "Gayrimenkul değerlendirmesi nasıl yapılıyor?",
+                "a": "Bölgedeki emsal mülkler, güncel piyasa dinamikleri, mülkünüzün fiziksel durumu ve şerefiyesi kapsamlı bir şekilde analiz edilerek, gerçekçi ve pazar karşılığı olan doğru fiyat belirlenir."
+            },
+            {
+                "q": "Hizmet bedeliniz (komisyon oranı) nedir?",
+                "a": "Hizmet bedellerimiz gayrimenkulün satış veya kiralama durumuna göre yasal standartlar çerçevesinde şeffaf bir şekilde belirlenmektedir. Detaylı bilgi için bizimle iletişime geçebilirsiniz."
+            },
+            {
+                "q": "Tüm yasal işlemleri siz mi takip ediyorsunuz?",
+                "a": "Evet, kapora sözleşmesinden tapu devrine veya kira kontratının imzalanmasına kadar tüm yasal, mali ve bürokratik işlemler ekibimiz tarafından bizzat takip edilip sorunsuz biçimde sonuçlandırılır."
+            }
+        ]
+    },
+    "contact": {
+        "title": "LET'S CONNECT",
+        "name_placeholder": "AD / SOYAD",
+        "email_placeholder": "E-POSTA",
+        "message_placeholder": "NASIL YARDIMCI OLABİLİRİM?",
+        "send_button": "MESAJ GÖNDER",
+        "location": "KADIKÖY / İSTANBUL MERKEZLİDİR"
+    },
+    "footer": {
+        "copyright": "© 2026 Remax Yıldız. Tüm hakları saklıdır.",
+        "kvkk": "KVKK",
+        "privacy": "Gizlilik Politikası",
+        "brand_desc": "Gayrimenkul sektöründeki tecrübemiz, profesyonel yaklaşımımız ve RE/MAX ağıyla yatırımlarınıza en doğru değeri ve en hızlı çözümü sunuyoruz.",
+        "corporate": "KURUMSAL",
+        "corp_about": "Hakkımızda",
+        "corp_faq": "Sıkça Sorulan Sorular",
+        "corp_contact": "İletişim",
+        "corp_terms": "Kullanım Koşulları",
+        "services": "HİZMETLERİMİZ",
+        "serv_1": "Gayrimenkul Değerleme",
+        "serv_2": "Pazar Analizi",
+        "serv_3": "Ticari Gayrimenkul",
+        "serv_4": "Ücretsiz Ekspertiz",
+        "serv_5": "Bölge Analizi",
+        "serv_6": "Pazarlama Yönetimi",
+        "regions": "UZMANLIK BÖLGELERİ",
+        "reg_1": "Kadıköy Satılık Daireler",
+        "reg_2": "Ataşehir Lüks Konutlar",
+        "reg_3": "Üsküdar Yalı & Villalar",
+        "reg_4": "Maltepe Ticari Gayrimenkul",
+        "reg_5": "Beşiktaş Satılık Projeler",
+        "reg_6": "Didim Satılık & Kiralık",
+        "reg_7": "Söke Gayrimenkulleri",
+        "reg_8": "Kuşadası Lüks Yazlıklar",
+        "quick": "HIZLI ERİŞİM",
+        "quick_1": "Portföylerim",
+        "quick_2": "Evim Ne Kadar Eder?",
+        "quick_3": "M² Fiyatları",
+        "quick_4": "Randevu Al",
+        "quick_5": "Amortisman Süresi"
+    },
+    "listings": {
+        "title": "Tüm İlanlar",
+        "items": [
+            {
+                "title": "BOĞAZ MANZARALI MALİKHANE",
+                "price": "45.000.000 TL",
+                "location": "SARIYER / İSTANBUL"
+            },
+            {
+                "title": "MODERN LOFT REZİDANS",
+                "price": "12.500.000 TL",
+                "location": "ATAŞEHİR / İSTANBUL"
+            },
+            {
+                "title": "BAHÇELİ MÜSTAKİL VİLLA",
+                "price": "18.750.000 TL",
+                "location": "ZEKERİYAKÖY / İSTANBUL"
+            }
+        ]
+    },
+    "blog": {
+        "label": "GAYRİMENKUL GÜNCESİ",
+        "title": "SEKTÖRDEN HABERLER",
+        "view_all": "TÜMÜNÜ GÖR",
+        "view_all_mobile": "TÜM YAZILARI GÖR",
+        "items": [
+            {
+                "title": "2024 Konut Satışlarında Toparlanma Sinyalleri",
+                "date": "15 Nisan 2024",
+                "category": "Piyasa Analizi",
+                "excerpt": "Türkiye genelinde konut satışları ivme kazanarak 1.5 milyon seviyesine yaklaştı. Yüksek faiz oranlarına rağmen piyasanın dayanıklılığını koruduğu gözlemleniyor."
+            },
+            {
+                "title": "Konut Yatırımında Amortisman Süresi 14 Yıla Geriledi",
+                "date": "10 Nisan 2024",
+                "category": "Yatırım",
+                "excerpt": "Artan kira getirileri ve bölgesel fiyat düzeltmeleri sayesinde gayrimenkul yatırımının geri dönüş süresi ortalama 14 yıla inerek yatırımcılar için büyük fırsat yarattı."
+            },
+            {
+                "title": "Kiralık Konut Piyasasında Yeni Yasal Düzenlemeler",
+                "date": "5 Nisan 2024",
+                "category": "Mevzuat",
+                "excerpt": "Kiralama süreçlerine dair hukuki düzenlemeler piyasayı etkilemeye devam ediyor. Mal sahibi ve kiracı ilişkilerinde hakları koruyan yeni dönem uygulamaları devreye alındı."
+            }
+        ]
+    },
+    "awards": {
+        "title": "EĞİTİM VE ÖDÜLLERİM",
+        "awards_title": "Ödüllerim",
+        "education_title": "Eğitimlerim",
+        "office": "RE/MAX ZEYTİN",
+        "years": {
+            "2025": [
+                "Ocak/Haziran Dönemi Ciro Üçüncüsü",
+                "Ocak/Haziran Dönemi İşlem Birincisi",
+                "Ocak/Haziran Dönemi Müşteri Memnuniyeti Üçüncüsü"
+            ],
+            "2024": [
+                "Nisan/Ekim Dönemi Ciro Birincisi",
+                "Nisan/Ekim Dönemi İşlem Birincisi",
+                "2024 Yılı İşlem Birincisi",
+                "2024 Yılı Ciro Birincisi",
+                "2024 Yılı İlk Çeyrek Üçüncüsü",
+                "Yıldızlar Kulübü Üyeliği"
+            ],
+            "2023": [
+                "Onur Ödülü"
+            ]
+        },
+        "education": [
+            "RE/MAX Superstar 3.0",
+            "RE/MAX Power Star 3.0",
+            "Uzmanlık Bölge Çalışması Eğitimi",
+            "ACP Akredite Ticari Uzmanlık Programı"
+        ]
+    },
+    "app": {
+        "banner_subtitle": "Detaylı ilanları incelemek için",
+        "banner_title": "PORTFÖYLERİME BURADAN ULAŞABİLİRSİNİZ"
+    }
+}

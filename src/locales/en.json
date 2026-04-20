@@ -1,0 +1,204 @@
+{
+    "nav": {
+        "about": "About",
+        "listings": "Listings",
+        "services": "Services",
+        "testimonials": "Testimonials",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "FERHAT SAĞLAM",
+        "subtitle1": "A NEW STANDARD",
+        "subtitle2": "OF MODERN LIVING",
+        "location1": "KADIKOY / ISTANBUL",
+        "location2": "TURKEY"
+    },
+    "about": {
+        "role": "Real Estate Advisor",
+        "phone": "+90 505 259 51 87",
+        "email": "ferhatsaglam@remax-yildiz.com",
+        "website_text": "www.remax.com.tr/yildiz",
+        "call_now": "Call Now",
+        "personal_website": "Personal Website",
+        "badge": "RE/MAX YILDIZ",
+        "acp_sub": "PROFESSIONAL",
+        "yildizlar1": "STARS",
+        "yildizlar2": "CLUB",
+        "remax_ticari": "COMMERCIAL",
+        "bio_p1": "BORN IN 1979 IN KARS DUE TO MY FATHER'S MILITARY DUTY. AFTER COMPLETING MY PRIMARY AND SECONDARY EDUCATION IN ISTANBUL, I GRADUATED FROM <strong class=\"text-white font-bold\">IZMIR MALTEPE MILITARY HIGH SCHOOL</strong> AND LATER FROM THE <strong class=\"text-white font-bold\">MILITARY ACADEMY</strong> IN 2002.",
+        "bio_p2": "BETWEEN 2009-2011, I COMPLETED MY <strong class=\"text-white font-bold\">MASTER'S DEGREE IN MANAGEMENT AND ORGANIZATION AT SELCUK UNIVERSITY</strong> IN KONYA. IN 2014, I OBTAINED THE <strong class=\"text-white font-bold\">CLASS A OCCUPATIONAL SAFETY EXPERT</strong> CERTIFICATE ISSUED BY THE MINISTRY OF LABOR AND SOCIAL SECURITY.",
+        "bio_p3": "BETWEEN 2002-2023, I SERVED IN <strong class=\"text-white font-bold\">VARIOUS UNITS AND HEADQUARTERS OF THE TURKISH ARMED FORCES AS PLATOON AND COMPANY COMMANDER, GARRISON COMMANDER, PERSONNEL PLANNING OFFICER, AND PERSONNEL BRANCH MANAGER</strong>. UPON RETIRING IN 2023, I DECIDED TO TRANSFER THE KNOWLEDGE AND DISCIPLINE I ACQUIRED TO THE REAL ESTATE SECTOR.",
+        "bio_p4": "AS OF OCTOBER 2024, TOGETHER WITH MY OFFICE IN ISTANBUL, I WILL CONTINUE TO MANAGE YOUR REAL ESTATE SALES AND RENTAL PROCESSES PROFESSIONALLY, WITHOUT COMPROMISING ON A RELIABLE, TRANSPARENT, AND CORPORATE APPROACH.",
+        "send_mail": "SEND MAIL"
+    },
+    "testimonials": {
+        "label": "OUR REFERENCES",
+        "title": "Client Testimonials",
+        "see_more": "See More Client Testimonials",
+        "reviews": [
+            {
+                "content": "As a real estate agent, he exceeded our expectations and quickly found a reliable tenant. He was professional, transparent, and solution-oriented at every stage. He effortlessly managed everything for us. I highly recommend him with peace of mind.",
+                "author": "Vedat Yılmaz",
+                "role": "Property Owner",
+                "initials": "VY"
+            },
+            {
+                "content": "I received highly professional service. Throughout the entire process, there was continuous information flow. Minor setbacks were resolved with great patience and support. It was an exceptionally valuable and high-quality experience.",
+                "author": "Erkan Varol",
+                "role": "Client",
+                "initials": "EV"
+            },
+            {
+                "content": "A highly reliable person who does his job with great meticulousness. My wife and I are deeply grateful for the detached house we purchased through him. Thank you for your constructive approach to all our requests.",
+                "author": "Uğur Araşlıklar",
+                "role": "Buyer",
+                "initials": "UA"
+            }
+        ]
+    },
+    "faq": {
+        "label": "PROCESS & INFORMATION",
+        "title": "Frequently Asked Questions",
+        "questions": [
+            {
+                "q": "How long does it take to sell/rent my property?",
+                "a": "Although it varies depending on the location of your property, pricing strategy, and market conditions, with the right pricing and a professional marketing network, we conclude our portfolios within 15 to 30 days on average."
+            },
+            {
+                "q": "How is the real estate valuation done?",
+                "a": "The realistic and correct price with market equivalent is determined by comprehensively analyzing the comparable properties in the region, current market dynamics, the physical condition of your property, and its goodwill."
+            },
+            {
+                "q": "What is your service fee (commission rate)?",
+                "a": "Our service fees are determined transparently within the framework of legal standards depending on whether the real estate is for sale or for rent. You can contact us for detailed information."
+            },
+            {
+                "q": "Do you follow up on all legal processes?",
+                "a": "Yes, from the deposit contract to the title deed transfer or the signing of the lease agreement, all legal, financial, and bureaucratic processes are followed up strictly by our team and concluded smoothly."
+            }
+        ]
+    },
+    "contact": {
+        "title": "LET'S CONNECT",
+        "name_placeholder": "FULL NAME",
+        "email_placeholder": "EMAIL",
+        "message_placeholder": "HOW CAN I HELP YOU?",
+        "send_button": "SEND MESSAGE",
+        "location": "BASED IN KADIKOY / ISTANBUL"
+    },
+    "footer": {
+        "copyright": "© 2026 Remax Yildiz. All rights reserved.",
+        "kvkk": "Privacy Terms",
+        "privacy": "Privacy Policy",
+        "brand_desc": "With our experience in the real estate sector, professional approach, and the RE/MAX network, we offer the most accurate value and fastest solutions for your investments.",
+        "corporate": "CORPORATE",
+        "corp_about": "About Us",
+        "corp_faq": "FAQ",
+        "corp_contact": "Contact",
+        "corp_terms": "Terms of Use",
+        "services": "OUR SERVICES",
+        "serv_1": "Property Valuation",
+        "serv_2": "Market Analysis",
+        "serv_3": "Commercial Real Estate",
+        "serv_4": "Free Appraisal",
+        "serv_5": "Regional Analysis",
+        "serv_6": "Marketing Management",
+        "regions": "EXPERTISE AREAS",
+        "reg_1": "Kadikoy Apartments",
+        "reg_2": "Atasehir Luxury Homes",
+        "reg_3": "Uskudar Mansions & Villas",
+        "reg_4": "Maltepe Commercial",
+        "reg_5": "Besiktas Projects",
+        "reg_6": "Didim Properties",
+        "reg_7": "Soke Real Estate",
+        "reg_8": "Kusadasi Summer Homes",
+        "quick": "QUICK ACCESS",
+        "quick_1": "My Portfolios",
+        "quick_2": "Home Valuation",
+        "quick_3": "M² Prices",
+        "quick_4": "Book Appointment",
+        "quick_5": "Amortization"
+    },
+    "listings": {
+        "title": "All Listings",
+        "items": [
+            {
+                "title": "BOSPHORUS VIEW MANSION",
+                "price": "45.000.000 TRY",
+                "location": "SARIYER / ISTANBUL"
+            },
+            {
+                "title": "MODERN LOFT RESIDENCE",
+                "price": "12.500.000 TRY",
+                "location": "ATASEHIR / ISTANBUL"
+            },
+            {
+                "title": "DETACHED VILLA WITH GARDEN",
+                "price": "18.750.000 TRY",
+                "location": "ZEKERIYAKOY / ISTANBUL"
+            }
+        ]
+    },
+    "blog": {
+        "label": "REAL ESTATE DIARY",
+        "title": "INDUSTRY NEWS",
+        "view_all": "VIEW ALL",
+        "view_all_mobile": "VIEW ALL POSTS",
+        "items": [
+            {
+                "title": "Signs of Recovery in 2024 Housing Sales",
+                "date": "April 15, 2024",
+                "category": "Market Analysis",
+                "excerpt": "Total housing sales across Turkey have increased, approaching the 1.5 million mark. Despite high interest rates, the market is showing resilience and steady demand."
+            },
+            {
+                "title": "Return on Real Estate Investment Drops to 14 Years",
+                "date": "April 10, 2024",
+                "category": "Investment",
+                "excerpt": "Thanks to rising rental yields and regional price adjustments, the average amortization period for real estate investments has dropped, making it highly attractive to investors."
+            },
+            {
+                "title": "New Legal Regulations in the Rental Market",
+                "date": "April 5, 2024",
+                "category": "Regulations",
+                "excerpt": "Legal regulations regarding the rental process continue to impact the market. New period practices are now strictly enforced in negotiations between landlords and tenants."
+            }
+        ]
+    },
+    "awards": {
+        "title": "EDUCATION & AWARDS",
+        "awards_title": "My Awards",
+        "education_title": "My Education",
+        "office": "RE/MAX ZEYTIN",
+        "years": {
+            "2025": [
+                "Jan/Jun Period - 3rd in Turnover",
+                "Jan/Jun Period - 1st in Transactions",
+                "Jan/Jun Period - 3rd in Customer Satisfaction"
+            ],
+            "2024": [
+                "Apr/Oct Period - 1st in Turnover",
+                "Apr/Oct Period - 1st in Transactions",
+                "2024 Annual - 1st in Transactions",
+                "2024 Annual - 1st in Turnover",
+                "2024 First Quarter - 3rd Place",
+                "Stars Club Membership"
+            ],
+            "2023": [
+                "Award of Honor"
+            ]
+        },
+        "education": [
+            "RE/MAX Superstar 3.0",
+            "RE/MAX Power Star 3.0",
+            "Expert Region Study Training",
+            "ACP Accredited Commercial Expert Program"
+        ]
+    },
+    "app": {
+        "banner_subtitle": "To review detailed listings",
+        "banner_title": "YOU CAN ACCESS MY PORTFOLIOS HERE"
+    }
+}
